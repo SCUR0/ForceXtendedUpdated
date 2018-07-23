@@ -21,9 +21,7 @@ Thanks to famfamfam for the awesome icons.
 
 ## Install
 
-To install the skin visit the [Deviant Art page](http://mallchin.deviantart.com/art/ForceXtended-Rainmeter-Skin-300596419) and download the easy-to-install Rainmeter Skin Package.
-
-You'll also find help and assistance in the comments.
+To install this modified skin, copy folders from git repository and place in a new folder inside your rainmeterskill folder e.g. `C:\Users\username\Documents\Rainmeter\Skins\ForceXtended`
 
 ## Dependencies
 
