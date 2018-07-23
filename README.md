@@ -6,6 +6,8 @@
 
 CPU skin was updated to support 12 cores.
 
+Clock set to 12 hour cycle.
+
 
 ## About
 
@@ -23,13 +25,4 @@ You'll also find help and assistance in the comments.
 
 ## Dependencies
 
-  * [SpeedFan](http://www.almico.com/speedfan.php)
-  * [MSI Afterburner Plugin](http://forums.guru3d.com/showthread.php?t=319558)
-
-## To-do
-
-  * Test SSID status change
-  * Detailed Top Processes by CPU
-  * Detailed Top Processes by Memory
-  * SLI Support
-  * Fan monitoring
+  * [CoreTemp](http://www.alcpu.com/CoreTemp/)
