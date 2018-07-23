@@ -13,11 +13,7 @@ Temp plugin switched to [CoreTemp](http://www.alcpu.com/CoreTemp/).
 
 ## About
 
-This skin is based on "ForceX System Monitor" by ForceX.
-
-I've completely re-written the codebase and added many new features.
-
-Thanks to famfamfam for the awesome icons.
+This skin is just updated/modified ForceXtended code from [mallchin](https://github.com/mallchin/ForceXtended).
 
 ## Install
 
