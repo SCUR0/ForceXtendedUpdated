@@ -8,6 +8,8 @@ CPU skin was updated to support 12 cores.
 
 Clock set to 12 hour cycle.
 
+Temp plugin switched to [CoreTemp](http://www.alcpu.com/CoreTemp/).
+
 
 ## About
 
