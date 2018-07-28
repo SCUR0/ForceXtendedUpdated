@@ -4,7 +4,7 @@
 
 ## Changes Made
 
-CPU skin was updated to support 12 cores.
+CPU skin was updated to support 16 cores.
 
 Clock set to 12 hour cycle.
 
