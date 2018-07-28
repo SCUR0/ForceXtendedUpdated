@@ -10,6 +10,8 @@ Clock set to 12 hour cycle.
 
 Temp plugin switched to [CoreTemp](http://www.alcpu.com/CoreTemp/).
 
+Changed network to google.com and updated IP pull to checkip.dyndns.org
+
 
 ## About
 
