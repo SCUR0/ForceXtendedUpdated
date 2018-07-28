@@ -176,7 +176,7 @@ INTERFACE=0
 TCP_VERSION=TCPv4
 
 ; Address to use for ping queries
-PING_ADDRESS=www.google.co.uk
+PING_ADDRESS=www.google.com
 
 ; Max ping timeout
 PING_TIMEOUT=30000
