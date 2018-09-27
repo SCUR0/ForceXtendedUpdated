@@ -6,6 +6,8 @@
 
 CPU skin was updated to support 16 cores.
 
+CPU core measurement updated to rainmeter CPU measure plugin
+
 Clock set to 12 hour cycle.
 
 Temp plugin switched to [CoreTemp](http://www.alcpu.com/CoreTemp/).
