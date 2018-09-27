@@ -19,7 +19,7 @@ Changed network to google.com and updated IP pull to checkip.dyndns.org
 
 ## About
 
-This skin is just updated/modified ForceXtended code from [mallchin](https://github.com/mallchin/ForceXtended).
+This was an old favorite skin that lacked support for newer processors and had an annoying bug with inverted core measurements after waking computer from sleep. The creators appeared to have abandoned it so I took it into my hands to update. This skin is forked and updated from ForceXtended by [mallchin](https://github.com/mallchin/ForceXtended).
 
 ## Install
 
@@ -27,4 +27,4 @@ Skin installer located in [releases.](https://github.com/SCUR0/ForceXtendedUpdat
 
 ## Dependencies
 
-  * [CoreTemp](http://www.alcpu.com/CoreTemp/)
+  * [CoreTemp](http://www.alcpu.com/CoreTemp/) for CPU temp but is not required.
