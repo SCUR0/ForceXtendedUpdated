@@ -21,7 +21,7 @@ This skin is just updated/modified ForceXtended code from [mallchin](https://git
 
 ## Install
 
-To install this modified skin, copy folders from git repository and place in a new folder inside your rainmeterskill folder e.g. `C:\Users\username\Documents\Rainmeter\Skins\ForceXtended`
+Skin installer located in [releases.](https://github.com/SCUR0/ForceXtendedUpdated/releases)
 
 ## Dependencies
 
