@@ -1,4 +1,4 @@
-# ForceXtended Rainmeter Updated Skin
+# ForceXtended Updated Rainmeter Skin
 
 ![ForceXtended Rainmeter Skin](https://github.com/SCUR0/ForceXtended/raw/master/preview.png) "ForceXtended Rainmeter Skin")
 
