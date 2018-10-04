@@ -59,7 +59,7 @@ SF_CPU_TEMP=2
 ;============================================================================
 
 ; Format to 12h or 24 clock.  Valid values are "12" or "24".
-CLOCK_HOURS=24
+CLOCK_HOURS=12
 
 
 ;============================================================================
@@ -134,26 +134,6 @@ SF_Z_DRIVE_TEMP=-1
 
 
 ;============================================================================
-; GPU
-;
-; Requires MSI Afterburner Plugin available here:
-; http://forums.guru3d.com/showthread.php?t=319558
-;============================================================================
-
-; Title for the GPU module
-GPU_NAME="nVidia GeForce GTX 980 Strix @ 1.279GHz"
-
-; Set to your GPU's memory (in Mb)
-GPU_MEMORY=4096
-
-; MSI Afterburner returns size in Mb -- we'll multiple to get bytes
-GPU_MEMORY_MULTIPLIER=1048576
-
-; Set to relevant SpeedFan's IDs for your setup
-SF_GPU_TEMP=0
-
-
-;============================================================================
 ; MediaPlayer
 ;
 ; For a list of supported media players see:
@@ -185,7 +165,7 @@ PING_TIMEOUT=30000
 ;============================================================================
 ; Wi-Fi
 ;
-; Note: Windows XP SP2 using Wi-Fi will need to install the KB918977 hotfix.
+; Note: not implimented yet
 ;============================================================================
 
 ; Your WiFi interface's number
