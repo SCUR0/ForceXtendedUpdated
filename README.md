@@ -4,6 +4,16 @@
 
 ## Changes Made
 
+### New on this release
+
+GPU usage and NVRAM support without plugins for windows 10
+
+System now shows build version for windows 10
+
+Fixed bad paths
+
+### Other Changes
+
 CPU skin was updated to support 16 cores.
 
 CPU core measurement updated to rainmeter CPU measure plugin
