@@ -1,6 +1,6 @@
 [Metadata]
 Name=ForceXtended Updated - Drives
 Author=SCUR0
-Information=Updated version of ForceXtended by mallchin https://github.com/mallchin/ForceXtended
-Version=4.1.0
+Information=Releases can be found here https://github.com/SCUR0/ForceXtendedUpdated/releases
+Version=4.1.2
 
