@@ -16,9 +16,9 @@ Fixed bad paths
 
 CPU skin was updated to support 16 cores.
 
-CPU core measurement updated to rainmeter CPU measure plugin
+CPU core measurement updated to rainmeter CPU measure plugin. This now uses less resources and fixes bugs present on old cpu skin.
 
-Clock set to 12 hour cycle.
+Clock set to 12 hour cycle by default. This can still be changed in `\Documents\Rainmeter\Skins\ForceXtendedUpdated\Config.inc` under `DateTime`.
 
 Temp plugin switched to [CoreTemp](http://www.alcpu.com/CoreTemp/).
 
