@@ -14,7 +14,7 @@ Fixed bad paths
 
 ### Other Changes
 
-CPU skin was updated to support 16 cores.
+CPU skin was updated to support 24 cores.
 
 CPU core measurement updated to rainmeter CPU measure plugin. This now uses less resources and fixes bugs present on old cpu skin.
 
