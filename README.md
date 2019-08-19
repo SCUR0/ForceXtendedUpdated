@@ -2,17 +2,11 @@
 
 ![ForceXtended Rainmeter Skin](https://github.com/SCUR0/ForceXtended/raw/master/preview.png)
 
-## Changes Made
-
-### New on this release
+## Changes Made From Original
 
 GPU usage and NVRAM support without plugins for windows 10
 
 System now shows build version for windows 10
-
-Fixed bad paths
-
-### Other Changes
 
 CPU skin was updated to support 24 cores.
 
