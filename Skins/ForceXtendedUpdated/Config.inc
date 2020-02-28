@@ -41,8 +41,9 @@ BLANK_HEIGHT=10
 ;============================================================================
 ; CPU
 ;
-; To get temperatures, CoreTemp is needed. You can download it here
-; http://www.alcpu.com/CoreTemp/
+; SpeedFan provides sensory data for fans, temperatures and the like.  You'll
+; need to download and install a copy for some features to work.
+; 
 ;============================================================================
 
 ; Number of cores/threads to display. Valid values are "0", "2", "4", "6",
