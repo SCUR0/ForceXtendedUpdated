@@ -149,7 +149,7 @@ MEDIA_PLAYER=iTunes
 ;============================================================================
 
 ; Your network interface's number
-INTERFACE=0
+INTERFACE=Best
 
 ; Windows XP users should set this to "TCP"
 ; Windows Vista or above users should set this to "TCPv4"
@@ -160,13 +160,3 @@ PING_ADDRESS=www.google.com
 
 ; Max ping timeout
 PING_TIMEOUT=30000
-
-
-;============================================================================
-; Wi-Fi
-;
-; Note: not implimented yet
-;============================================================================
-
-; Your WiFi interface's number
-WIFI_INTERFACE=0
