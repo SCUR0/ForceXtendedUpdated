@@ -46,8 +46,8 @@ BLANK_HEIGHT=10
 ; 
 ;============================================================================
 
-; Number of cores/threads to display. Valid values are "0", "2", "4", "6",
-; "8" or "%NUMBER_OF_PROCESSORS%" (to choose automatically).
+; Number of cores/threads to display.
+; "%NUMBER_OF_PROCESSORS%" (to choose automatically).
 CPU_CORES=%NUMBER_OF_PROCESSORS%
 
 ; Set to relevant SpeedFan's IDs for your setup
@@ -148,11 +148,9 @@ MEDIA_PLAYER=iTunes
 ; Network
 ;============================================================================
 
-; Your network interface's number
+; Network bandwidth interface option. 0 = All
 INTERFACE=Best
 
-; Windows XP users should set this to "TCP"
-; Windows Vista or above users should set this to "TCPv4"
 TCP_VERSION=TCPv4
 
 ; Address to use for ping queries
