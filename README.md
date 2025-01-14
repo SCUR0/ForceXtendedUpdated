@@ -8,7 +8,7 @@ GPU usage and NVRAM support without plugins for windows 10
 
 System now shows build version for windows 10
 
-CPU skin was updated to support 24 cores.
+CPU skin was updated to support 32 cores.
 
 CPU core measurement updated to rainmeter CPU measure plugin. This now uses less resources and fixes bugs present on old cpu skin.
 
